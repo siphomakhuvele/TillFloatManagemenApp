@@ -1,0 +1,14 @@
+Till Float Management
+====================================================================
+Till Start Transaction: Total Paid, Change Total, Change Breakdown
+====================================================================
+
+Till Start Total: R500, Transaction Total: R54, Amount Paid:  R60, Change Total: R6, Change Breackdown: 5-1
+Till Start Total: R554, Transaction Total: R113, Amount Paid:  R200, Change Total: R87, Change Breackdown: 50-20-10-5-2
+Till Start Total: R667, Transaction Total: R73, Amount Paid:  R100, Change Total: R27, Change Breackdown: 20-5-2
+Till Start Total: R740, Transaction Total: R210, Amount Paid:  R250, Change Total: R40, Change Breackdown: 20 20
+Till Start Total: R950, Transaction Total: R286, Amount Paid:  R300, Change Total: R14, Change Breackdown: 10-2 2
+Till Start Total: R1236, Transaction Total: R66, Amount Paid:  R66, Change Total: R0, Change Breackdown: 
+Till Start Total: R1302, Transaction Total: R79, Amount Paid:  R90, Change Total: R11, Change Breackdown: 10-1
+Till Start Total: R1381, Transaction Total: R76, Amount Paid:  R76, Change Total: R0, Change Breackdown: 
+Till Closing Total: R1457
